@@ -47,7 +47,7 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 - [Daffa ALwan Aziz(https://github.com/DNALWANA) `[S.E. Internship Member of LTI, 2024/2025]`
 
-> Make system that can detect the "owner" with cam system   
+> Make system that can detect the "owner" with cam   
 >> `Project Link:` [Recognize Face System  ](https://github.com/DNALWANA/Recognize-Face-System)
 
 ---
