@@ -55,6 +55,10 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Automatic PPE Compliance Detection for Construction Sites (Focusing on Safety Goggles) using Haar Cascades and Canny Edge Detection.
 >> `Project Link:` [VisionGuard](https://github.com/farhanlhsn/LTI_WEEK2_VisionGuard)
 
+- [Rafi Fahrezy Athaillah](https://github.com/RapV31) ` [S.E. Intership Member of LTI, 2024/2025]`
+> Automation QR Scan Recognize for storage classification excel and SAP System
+>> `Project Link:` [QR Scan Recognize System](https://github.com/RapV31/QR-Scan-Recognize-System)
+
 - [Abdullah Syamil Rasyid](https://github.com/ELcasanova00) `[S.E. Internship Member of LTI, 2024/2025]`
 > Make System Virtual Pen 
 >> `Project Link:`[Virtual Pen](https://github.com/ELcasanova00/Open-virtual-pen-LTI-)
