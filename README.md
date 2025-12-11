@@ -55,6 +55,12 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Automatic PPE Compliance Detection for Construction Sites (Focusing on Safety Goggles) using Haar Cascades and Canny Edge Detection.
 >> `Project Link:` [VisionGuard](https://github.com/farhanlhsn/LTI_WEEK2_VisionGuard)
 
+- [Abdullah Syamil Rasyid](https://github.com/ELcasanova00) `[S.E. Internship Member of LTI, 2024/2025]`
+
+> Make A virtual Pen with a Color Tracking
+>>  `Project Link:` [Virtual Pen](https://github.com/ELcasanova00/Open-virtual-pen-LTI-)
+
+
 ---
 
 Copyright ⓒ LumiaTech Innovations, 2025.
