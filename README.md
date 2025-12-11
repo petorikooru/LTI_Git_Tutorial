@@ -46,14 +46,16 @@ Here, you can insert your repository to your own GitHub account, or you can push
 
 
 - [Daffa Alwan Aziz](https://github.com/DNALWANA) `[S.E. Internship Member of LTI, 2024/2025]`
-
 > Make system that can detect the "owner" with cam   
 >> `Project Link:` [Recognize Face System  ](https://github.com/DNALWANA/Recognize-Face-System)
 
 - [Muhammad Farhan Al Hasan](https://github.com/farhanlhsn) `[S.E. Internship Member of LTI, 2024/2025]`
-
 > Automatic PPE Compliance Detection for Construction Sites (Focusing on Safety Goggles) using Haar Cascades and Canny Edge Detection.
 >> `Project Link:` [VisionGuard](https://github.com/farhanlhsn/LTI_WEEK2_VisionGuard)
+
+- [Alfin Wijaya Isdiyono](https://github.com/apinnni) `[S.E. Internship Member of LTI, 2025/2026]`
+> Live cam face identifier using Haar Cascades
+>> `Project Link:` [Face Identifier](https://github.com/apinnni/LTI-week2_Face-Idetifier-with-Haar-Cascade.git)
 
 - [Rafi Fahrezy Athaillah](https://github.com/RapV31) ` [S.E. Intership Member of LTI, 2024/2025]`
 > Automation QR Scan Recognize for storage classification excel and SAP System
