@@ -65,6 +65,9 @@ Here, you can insert your repository to your own GitHub account, or you can push
 > Make System Virtual Pen 
 >> `Project Link:`[Virtual Pen](https://github.com/ELcasanova00/Open-virtual-pen-LTI-)
 
+- [Athallah Zacky Maulana](https://github.com/zazazaxky-m) `[S.E. Internship Member of LTI, 2025/2026]`
+> Real-Time Drowsiness Detection System Using Computer Vision
+>> `Project Link:`[Drowsiness Detection](https://github.com/zazazaxky-m/Project-LTI)
 ---
 
 Copyright ⓒ LumiaTech Innovations, 2025.
